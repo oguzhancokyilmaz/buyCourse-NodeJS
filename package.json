@@ -1,0 +1,22 @@
+{
+  "name": "buycourse-nodejs",
+  "version": "1.0.0",
+  "description": "Education Portal",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "keywords": [
+    "buy",
+    "course",
+    "nodeJs"
+  ],
+  "author": "OguzhanCokyilmaz",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
